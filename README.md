@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Stanley Mayore
-- 👀 I’m interested in data science
+- 👀 I’m interested in software development
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me; through gmail
